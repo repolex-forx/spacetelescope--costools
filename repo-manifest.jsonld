@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/costools/commit/5bf5eb61778ffc121186e0633d52ced30a4da2e0",
       "git:hexsha": "5bf5eb61778ffc121186e0633d52ced30a4da2e0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.2.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.2.7",
+      "repolex:parsedAt": "2026-10-17T00:59:20.954854+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/costools/commit/d8aefbf327b2d1ec3a4f476e4544e034a54f83d0",
