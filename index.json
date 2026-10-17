@@ -1,0 +1,11 @@
+{
+  "org": "spacetelescope",
+  "repo": "costools",
+  "versions": [
+    {
+      "commit": "5bf5eb61778ffc121186e0633d52ced30a4da2e0",
+      "tag": "1.2.7",
+      "parsed_at": "2026-10-17T00:59:20.955388+00:00"
+    }
+  ]
+}
